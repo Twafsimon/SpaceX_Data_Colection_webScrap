@@ -1,4 +1,5 @@
 # SpaceX_Data_Colection
- use APIS to collect datas,retrieve and clean data based on the dataset for SpaceX 
- use web scrap tho clean and manage SpaceX dataset
+<p><ol> 
+ <ol>use APIS to collect datas,retrieve and clean data based on the dataset for SpaceX </ol>
+ <ol>use web scrap tho clean and manage SpaceX datase</ol></p>
 Some practice of using web scrap to collect data for SpaceX 
